@@ -63,3 +63,5 @@ class Layer:
             output.append(neuron.sum_output)
         return output
 
+
+
